@@ -1,0 +1,160 @@
+.headeris {  font-family: 'Montserrat Alternates', sans-serif;
+ font-size: 3rem;
+ line-height: 1.5;
+ font-weight: 300;
+ color : white;
+}
+#title {
+  background-color: #ff4c68;
+}
+#features {
+  padding : 3% 15%;
+  padding-top:4.5rem;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+}
+#testimonials{
+
+  text-align: center;
+  background-color: #ff4c68;
+  color : white;
+}
+#press{
+  padding-bottom : 3% ;
+  text-align: center;
+  background-color: #ff4c68;
+}
+#cta{
+  background-color: #ff4c68;
+  padding : 3% 15%;
+  text-align: center;
+}
+#footer{
+  padding : 3% 15%;
+  color : grey;
+  text-align: center;
+}
+#pricing {
+  padding : 3% 15%;
+}
+.nx{
+  text-align: center;
+}
+.pop{
+  background-color: #ff4c68;
+padding : 3% 15%;
+font-family: 'Montserrat Alternates', sans-serif;
+color : white;
+font-size: 3rem;
+line-height: 1.5;
+text-align: center;
+
+}
+h2{
+   font-family: 'Montserrat Alternates', sans-serif;
+   font-size: 3rem;
+   line-height: 1.5;
+}
+em{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1rem;
+    margin-left: 20px;
+}
+i{
+  padding : 3% ;
+}
+.zjbs{
+  color: #ff4c68;
+}
+.card {
+  text-align: center;
+}
+.carousel-item{
+    padding : 3% 15%;
+}
+.firstdog, .testimonial-image{
+  border-radius: 100%;
+margin-top: 2rem;
+margin-left: 2rem;
+height:100px;
+width:100px;
+
+}
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  text-shadow: 3px 3px #ff0000;
+
+}
+.container-fluid{
+padding : 3% 15% 10%;
+}
+.navbar {
+padding-bottom: 4.5rem;
+}
+
+.btn{
+  color: white;
+
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link{
+  font-family: 'Princess Sofia', cursive;
+  font-weight: 300;
+  color : #fdcfdf;
+  font-size: 1.5rem;
+}
+.atsiuntimas {
+  margin : 5% 3% 5% 0;
+}
+.suotelefonas {
+  height:auto;
+  width: 300px;
+  transform: rotate(23deg);
+
+  position: absolute;
+
+}
+.trecia {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+
+}
+.dick{
+  width: 150px;
+    height: auto;
+    margin : 20px 20px 50px;
+}
+.tre {
+  color : grey;
+  text-align: center;
+
+  }
+  .fas{
+    color: #ff4c68;
+    text-align: center;
+    font-size: 3rem;
+margin: 3% 15%;
+  }
+  .pip {
+    text-align: center;
+    padding-bottom: 10%;
+  }
+
+.fas:hover {
+  color : pink;
+}
+@media (max-width: 1028px) {
+  .suotelefonas{
+position: static;
+transform: rotate(0);
+text-align: center;
+}
+#title{
+  text-align: center;
+}
+}
